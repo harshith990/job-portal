@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN Stack Job Portal
 
 Welcome to the Job Portal project! This project is a job portal application built using the MERN stack (MongoDB, Express, React, Node.js).
@@ -79,3 +80,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
+=======
+# job-portal
+>>>>>>> a4f98ecd4faaeca48478664a186395ace4f9c7b8
